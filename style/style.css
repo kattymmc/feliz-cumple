@@ -58,12 +58,7 @@ body {
 }
 
 .four .text-box {
-  width: 600px;
-  margin: 0 auto;
-  border: 3px solid #aaa;
-  border-radius: 5px;
-  padding: 10px;
-  position: relative;
+  visibility: hidden;
 }
 
 .text-box p {
@@ -125,7 +120,7 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -35px;
+  top: -70px;
   left: 41.5%;
   /* transform: scale(0.1); */
 }
